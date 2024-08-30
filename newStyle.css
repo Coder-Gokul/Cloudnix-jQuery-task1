@@ -42,7 +42,7 @@
 }
 
 #mypage_header nav {
-  height: 100px;
+  height: auto;
   background-color: var(--primary-dark);
   display: flex;
   align-items: center;
